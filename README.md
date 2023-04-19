@@ -11,6 +11,8 @@
 
 Elixir activity done with 'Rocketseat' Ignite course. ("Chapter I - Projeto Reports Generator")
 
+## 💻 Sobre o capítulo I - Fundamentos do Elixir, Aprofundando os conceitos
+
 Nesse módulo você terá a oportunidade de conhecer o Elixir mais de perto e entender os principais conceitos da linguagem, como: Imutabilidade, Pattern Matching e Pipe Operador. Além disso, já colocaremos a mão na massa e criaremos nosso primeiro projeto.
 
 Para aprofundar nosso conhecimento criaremos um segundo projeto. Nesse projeto, veremos como criar Tasks paralelas em Elixir, aproveitando todo o poder da concorrência. Além disso, conheceremos o incrível módulo Enum e criaremos nossos primeiros testes automatizados.
